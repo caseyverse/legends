@@ -2,7 +2,7 @@
 
 <img src="../imgs/torneth.png" width="450" style="display: block;margin-left: auto;margin-right: auto;">
 
-## World Entry
+## Biography
 
 <img src="../imgs/torneth-token.png" width="150" style="float:left;padding:5px">
 
