@@ -10,7 +10,9 @@ A greedy Tabaxi, Torneth is a former upper-class wizard whom upon discovering th
 
 ### AI Dungeon
 
-Torneth is was designed around AI Dungeon's [Wizard scenario](https://ai-dungeon.fandom.com/wiki/Default_Scenario#Fantasy) and is compatible with it. The Book of Essence was replaced with Manual of the Phoenix because of the [Essence](./../essence.md)'s role in Legends of Zack. You're welcome to change this back but be warned this usually leads to the AI prioritizing vampirism and necromancy when going by Legends' definition of Essence. As described in his world entry above, he is intended to be the antagonist and is designed to keep the game truly endless.
+Torneth was designed around AI Dungeon's [Wizard scenario](https://ai-dungeon.fandom.com/wiki/Default_Scenario#Fantasy) and is compatible with it. As described in his world entry above, he is intended to be the antagonist and is designed to keep the game truly endless.
+
+In an [early version](https://www.furaffinity.net/view/41439402/) of the character, Torneth was trapped in the The Book of Essence. This was replaced with Manual of the Phoenix due to the [Essence](./../essence.md) functioning as Mana in Legends of Zack and the AI prioritizing vampirism and necromancy because of that definition. This phenomenon was discovered long before Torneth's introduction and was simply an error on my part.
 
 ### D&D
 
