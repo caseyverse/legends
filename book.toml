@@ -1,0 +1,20 @@
+[book]
+authors = ["Tony Bark"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Legends of Zack"
+
+[rust]
+edition = "2021"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/tonytins/legends"
+
+[output.html.fold]
+enable = true
+
+[output.html.search]
+enable = true
+limit-results = 15
