@@ -3,9 +3,12 @@
 - [Introduction](./intro.md)
 - [Origins](./origins.md)
 
-# World
+# Magic
 
-- [Essence](./essence.md)
+- [Essence](./magic/essence.md)
+- [Runic](./magic/runic.md)
+- [The Weave](./magic/weave.md)
+  - [The Infinity](./magic/weave/infinity.md)
 
 # Characters
 
