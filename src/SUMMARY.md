@@ -14,4 +14,4 @@
 
 <!-- - [Zack](./characters/zack.md) -->
 - [Torneth](./characters/torneth.md)
-- [Chef](characters/chef.md)
+- [Artemis](characters/artemis.md)

@@ -8,7 +8,7 @@ The concept was revisited a few times in the over the years but wasn't until a f
 
 ## The Long Game
 
-<img src="imgs/torneth-side.png" width="250" style="float:right;padding:5px;transform: scaleX(-1);">
+<!-- <img src="imgs/torneth-side.png" width="250" style="float:right;padding:5px;transform: scaleX(-1);"> -->
 
 While creating the magic system, I wanted to keep the game endless because I had more fun trying to find the book than actually getting it, which there was always 50/50 chance of. After all, you begin in a ruin that is literally a dungeon. I was able to pull this off in early prototypes of the Essence magic system but it always took me away from the book's location.[^1] Got so crazy I managed to accidentally start a whole war between two Wizards and Rouges that would put Harry Potter to shame.
 

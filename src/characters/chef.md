@@ -4,7 +4,7 @@
 
 ## Biography
 
-Foxscular makes a mean stew, and he's a good cook. But who is he? And why does he keep showing up everywhere in the world? Whenever we're in need of food, there usually a bar or restaurant where he is ready to serve up the best food in the world.
+Foxscular makes a mean stew, and he's a good cook. But who is he? And why does he keep showing up everywhere in the world? Whenever we're in need of food, there usually a bar or restaurant where he is ready to serve up the best food in the world. Rumors say 
 
 ## Usage
 
