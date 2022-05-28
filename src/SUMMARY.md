@@ -12,7 +12,6 @@
 
 - [Larion](./realms/larion.md)
 - [The Weave](./realms/weave.md)
-  - [The Infinity](./realms/weave/infinity.md)
 
 # Characters
 
