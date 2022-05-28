@@ -1,6 +1,6 @@
 # Artemis (Gigalak)
 
-<img src="../imgs/Artemis.png" width="450" style="display: block;margin-left: auto;margin-right: auto;">
+<img src="../imgs/artemis.png" width="450" style="display: block;margin-left: auto;margin-right: auto;">
 
 ## Description
 
