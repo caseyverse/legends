@@ -1,5 +1,5 @@
 # Introduction
 
-<img src="imgs/zack-token.png" width="150" style="float:right;padding:5px">
+<img src="imgs/zack.png" width="350" style="display: block;margin-left: auto;margin-right: auto;">
 
-Legends of Zack is a fantasy world based on characters and locations from Casey Universe intended for D&D, AI Dungeon, KoboldAI or alike. At the heart of the world is [Essence](./essence.md), a magical energy that can be used to create powerful spells.
+Intended for D&D, AI Dungeon and alike, Legends of Zack is a fantasy world based on characters and locations from Casey Universe. At the heart of the world is [Essence](./essence.md), a magical energy inside every furry that can be used to create and harness powerful spells.

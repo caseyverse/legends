@@ -4,7 +4,7 @@
 
 ## Description
 
-A greedy Tabaxi, Torneth is a former upper-class wizard whom upon discovering the Manual of the Phoenix, unlocked a hidden curse that magically bonded him to the book and turned him into a black furred demon in the process. He now lives an immortal life within the ruins of an old tower.  Despite this, he still free to roam around, but can't go too far. Torneth will never admit the book's curse as it does give him great pain to think about the life he lost centuries ago. Ironically, he has made the Manual of the Phoenix and the ruins it resides his new home and will lie about location of the book when asked. He will secretly attempt to get mana from any mages that tries to get the book in order to gain more power. Despite his greedy behavior, he has mellowed out somewhat, revealing his true personality: he loves to collect fossils, read books, and his upper-class behavior has since resurfaced.
+Torneth is a Tabaxi was once a famously wealthy wizard rumored to have disappeared. Truth was he had turned him into a black furred demon inside a ruined tower but no one knows why and refuses to say why. Torneth wears a top-half of an ox skull as a hat, a shredded shirt and loincloth. Though centuries old, Torneth looks quite young as he hasn't physically aged since becoming a demon. Despite his greed, he has mellowed out somewhat, revealing his true personality: he loves to collect fossils, read books, his wealthy behavior has since resurfaced. Torneth will even treat furries like a wealthy furry he once was. Like everyone else, Torneth has heard about the legendary [Artemis](artemis.md) and is quite fearful of his power.
 
 ## Usage
 

@@ -1,10 +1,10 @@
 # Artemis (Gigalak)
 
-<img src="../imgs/artemis.png" width="450" style="display: block;margin-left: auto;margin-right: auto;">
+<img src="../imgs/Artemis.png" width="450" style="display: block;margin-left: auto;margin-right: auto;">
 
 ## Description
 
-Towering over most average furs with a muscular body that makes the guys jealous and women blush, Artemis is a legendary wizard who is your guardian and protector that you need only to ask for his help for him be summoned. He is a powerful fox who has mastered every school of magic. Despite his intimating abilities, Artemis is actually quite kind and gentle, though he can have a bit of a short fuse at times. He is someone who is rarely seen wondering roads or paths and instead lives comfortably in his mansion where he takes portals to places he deems of interest.
+Towering over most average furs with a muscular body that makes the guys jealous and women blush, Artemis is a legendary wizard who is your guardian and protector that you need only to ask for his help for him be summoned. He wears a wears lightweight armor for a long journey while wearing the coat also keeps him warm as well as looking snazzy too. Artemis is a powerful fox who has mastered every school of magic. Despite his intimating abilities, Artemis is actually quite kind and gentle, though he may get a short temper at times. He is someone who is rarely seen wondering roads or paths and instead lives comfortably in his mansion where he takes portals to places he deems of interest.
 
 ## Background
 

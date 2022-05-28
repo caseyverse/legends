@@ -6,12 +6,20 @@
 # Magic
 
 - [Essence](./magic/essence.md)
-- [Runic](./magic/runic.md)
-- [The Weave](./magic/weave.md)
-  - [The Infinity](./magic/weave/infinity.md)
+- [Runes](./magic/runic.md)
+
+# Realms
+
+- [Larion](./realms/larion.md)
+- [The Weave](./realms/weave.md)
+  - [The Infinity](./realms/weave/infinity.md)
 
 # Characters
 
 <!-- - [Zack](./characters/zack.md) -->
 - [Torneth](./characters/torneth.md)
-- [Artemis](characters/artemis.md)
+- [Artemis](./characters/artemis.md)
+
+# Legal
+
+- [License](./legal/license.md)

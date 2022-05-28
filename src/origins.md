@@ -12,7 +12,7 @@ The concept was revisited a few times in the over the years but wasn't until a f
 
 While creating the magic system, I wanted to keep the game endless because I had more fun trying to find the book than actually getting it, which there was always 50/50 chance of. After all, you begin in a ruin that is literally a dungeon. I was able to pull this off in early prototypes of the Essence magic system but it always took me away from the book's location.[^1] Got so crazy I managed to accidentally start a whole war between two Wizards and Rouges that would put Harry Potter to shame.
 
-In order to tame the beast that I've unleashed, I realized I needed a proper antagonist. Like getting the book, there is nearly a 50/50 chance you'll run into another wizard searching for the book too. So I decided to base antagonist off of the idea that there was a wizard before you and came up with [Torneth](https://www.furaffinity.net/view/41439402/). Not only did he come long before you but he unlocked a curse that forever has him chained to the book. Meaning, if you want to read it, you'll have to get through him.
+In order to tame the beast that I've unleashed, I realized I needed to create some balance. This came by adding a rather god-like I met at a hotel who would later become [Artemis](characters/artemis.md). Like getting the book, there is nearly a 50/50 chance you'll run into another wizard searching for the book too. So I decided to base antagonist off of the idea that there was a wizard before you and came up with [Torneth](https://www.furaffinity.net/view/41439402/). Not only did he come long before you but he unlocked a curse that forever has him chained to the book. Meaning, if you want to read it, you'll have to get through him.
 
 ## Legends Reborn
 
