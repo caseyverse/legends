@@ -24,6 +24,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          cname: legends.tonybark.com
+          cname: legends.caseyverse.info
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./book
