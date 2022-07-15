@@ -21,4 +21,5 @@
 
 # Legal
 
+- [Copyrights](./legal/copyrights.md)
 - [License](./legal/license.md)
